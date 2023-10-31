@@ -1,0 +1,22 @@
+.footer{
+    text-align: center;
+    background-color: rgb(128, 126, 126);
+    width: 100%;
+}
+
+.footer img{
+    width: 8rem;
+    height: 3rem;
+    margin-top: 1rem;
+}
+
+.footer-btn{
+    background-color: rgb(78, 78, 248);
+    color: white;
+    margin-bottom: 3rem;
+    border: none;
+    outline: none;
+    border-radius: .5rem;
+    font-size: .7rem;
+    padding: .4rem;
+}

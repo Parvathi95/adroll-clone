@@ -1,0 +1,225 @@
+.home-div{
+    background-color: #cc66a0;
+    width: 100%;
+    height: 3.3rem;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 0;
+}
+
+.home-div a{
+    color: #a8e2f7;
+    text-decoration: none;
+}
+
+.home-div a:hover{
+    color: orange;
+    text-decoration: underline;
+}
+
+.homepage{
+    background-color: #f89c7e;
+    width: 100%;
+    height: 30rem;
+}
+
+.home{
+    margin: 25px 0;
+    padding: 45px 0;
+}
+
+.home-img-1{
+    margin-left: 4rem !important;
+    margin-top: -10% !important;
+    width: 30rem;
+    height: 20rem;
+}
+
+.buttons .button{
+   width: 12rem;
+   height: 3.5rem;
+   color: white;
+   border-radius: .5rem;
+   outline: none;
+   border: none;
+}
+
+.one{
+    color: black;
+    text-decoration: none;
+    padding-top: 30rem;
+}
+
+.one:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+.explore{
+    color: #cc66a0;
+    font-size: 1.3rem;
+}
+
+.explore:hover{
+    text-decoration: underline;
+    color: darkblue;
+}
+
+.home-img-2{
+    margin-left: 4rem !important;
+    width: 30rem;
+    height: 20rem;
+}
+
+.middle-1{
+    margin: 25px 0;
+    padding: 45px 0;
+}
+
+.middle-1 h3{
+    margin-top: 5rem;
+}
+
+.middle-1 h3 p{
+    margin-top: 1rem;
+}
+
+.text-img img{
+    width: 10rem;
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+}
+
+.home-3{
+    background-color: #7599ee;
+}
+
+.middle-2{
+    margin-top: 7rem;
+}
+
+.middle-2 img{
+    margin-bottom: 5rem;
+}
+
+.middle-2 h3{
+    line-height: 2.9rem;
+    font-size: 2rem;
+}
+
+.middle-2 p{
+    font-size: 1.1rem;
+    padding-top: 1rem;
+}
+
+.middle-2 a{
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+.middle-2 a:hover{
+    color: darkblue;
+    border-bottom: blue;
+}
+
+.middle-2 img{
+    margin-left: 2rem;
+}
+
+.btn-2{
+    line-height: 1px;
+}
+
+.home-6{
+    border: .6rem solid rgb(6, 6, 119);
+    margin: 8rem;
+    height: 27rem;
+}
+
+.middle-4 img{
+    padding: 3rem;
+}
+
+.middle-4 p{
+    font-size: 1.3rem;
+    margin-left: 2.3rem;
+}
+
+.middle-4 h2{
+    margin-top: 7rem;
+    margin-left: 5rem;
+}
+
+.middle-4 h1{
+    font-size: 8rem;
+    margin-left: 5rem;
+}
+
+.middle-4 span{
+    margin-left: 5rem;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.files{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.files img{
+    width: 10rem;
+    height: 10rem;
+}
+
+.home-5{
+    background-color: #f7a285;
+    width: 100%;
+    height: 25rem;
+}
+
+.home-5 h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    font-size: 2rem;
+}
+
+.home-5 div h1{
+    justify-content: center;
+    align-items: center;
+    padding-top: 6.6rem;
+}
+
+.buttons{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.row ul{
+    list-style: none;
+    margin: 2rem 1rem;
+    font-size: 13px;
+}
+
+.row ul li{
+    margin-top: .6rem;
+    color: rgb(102, 102, 102);
+}
+
+.row ul li:first-child{
+    color: black;
+}
+
+.icons-img{
+    width: 7rem;
+    height: 5rem;
+}
+
+.icons ul li a{
+    font-size: 1.5rem;
+    color: black;
+}
